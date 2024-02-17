@@ -1,0 +1,8 @@
+How to run
+
+
+python detect.py --weight yolov5s.pt --source video/1.mp4 --view-img
+
+python detect.py --weight yolov5s.pt --source 0
+
+python detect.py --weight yolov5s.pt --source images\1.jpg  --view-img
